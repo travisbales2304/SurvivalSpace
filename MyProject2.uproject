@@ -8,6 +8,11 @@
 			"Name": "ProceduralTerrainGenerator",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2e707e78b69540aeb7464b7c4e0e9c7b"
+		},
+		{
+			"Name": "NinjaCharacter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d91461c6f5544d118198d6acaddb48e8"
 		}
 	]
 }
